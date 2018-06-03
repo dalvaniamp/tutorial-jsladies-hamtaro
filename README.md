@@ -1,0 +1,2 @@
+Esta aplicação é o resultado do tutorial do <a href="http://github.com/jsladiesbr">JsLadiesBr</a> para um jogo em JavaScript utilizando a biblioteca <a href="https://phaser.io">Phaser</a>.</br>
+O jogo está disponível <a href="http://hamtaro.dalvaniamuniz.surge.sh">aqui</a> (atualmente, compatível apenas com o navegador Mozilla Firefox).
